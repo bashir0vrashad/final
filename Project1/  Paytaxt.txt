@@ -1,0 +1,10 @@
+Azerbaycanin paytaxti haradir?   Baki   Baki   Xizi   Gence   Sumqayit 
+Turkiyenin paytaxti haradir?   Ankara   Ankara   Istanbul   Izmir   Adana 
+Rusiyanin paytaxti haradir?   Moskva   Moskva   Sankt-Peterburq   Yakaterinburq   Samara 
+Gurcustanin paytaxti haradir?   Tbilisi   Tbilisi   Batumi   Kutaisi   Qori 
+Iranin paytaxti haradir?   Tehran   Tehran   Qum   Kirmansah   Tebriz 
+Almaniyanin paytaxti haradir?   Berlin   Berlin   Hamburq   Munhen   Koln 
+Portuqaliyanin paytaxti haradir?   Lissabon   Lissabon   Porto   Viseu   Braqa 
+Norvecin paytaxti haradir?   Oslo   Oslo   Berqen   Tronxeym   Dramen 
+Fransanin paytaxti haradir?   Paris   Paris   Marsel   Lyon   Borda 
+Yaponiyanin paytaxti haradir?   Tokio   Tokio   Matsuyama   Fukuyama   Hirosima 

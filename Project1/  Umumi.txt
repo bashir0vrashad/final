@@ -1,0 +1,10 @@
+Almaniyanin paytaxti haradir?   Berlin   Berlin   Hamburq   Munhen   Koln 
+Yaponiyanin paytaxti haradir?   Tokio   Tokio   Matsuyama   Fukuyama   Hirosima 
+Gurcustanin paytaxti haradir?   Tbilisi   Tbilisi   Batumi   Kutaisi   Qori 
+C# dili necenci ilde yaradilmisdir?   2001   2001   2002   2003   2004 
+Javascript dili necenci ilde yaradilmisdir?   1996   1996   1997   1998   1999 
+C++ dili necenci ilde yaradilmisdir?   1983   1983   1984   1985   1986 
+C.Ronaldo nun oynadigi milli komanda hansidir?   Portuqaliya   Portuqaliya   Misir   Braziliya   Almaniya 
+F.Kadioglu nun oynadigi milli komanda hansidir?   Turkiye   Turkiye   Avstriya   Merakes   Niderland 
+Portuqaliyanin pul vahidi hansidir?   avro   avro   kron   manat   lire 
+Norvecin pul vahidi hansidir?   kron   kron   yen   rial   rubl 

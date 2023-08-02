@@ -1,0 +1,10 @@
+Azerbaycanin pul vahidi hansidir?   manat   manat   lire   yen   avro 
+Turkiyenin pul vahidi hansidir?   lire   lire   kron   avro   rial 
+Rusiyanin pul vahidi hansidir?   rubl   rubl   lire   avro   manat 
+Gurcustanin pul vahidi hansidir?   lari   lari   avro   yen   rubl 
+Iranin pul vahidi hansidir?   rial   rial   manat   lire   avro 
+Almaniyanin pul vahidi hansidir?   avro   avro   rial   rubl   yen 
+Portuqaliyanin pul vahidi hansidir?   avro   avro   kron   manat   lire 
+Norvecin pul vahidi hansidir?   kron   kron   yen   rial   rubl 
+Fransanin pul vahidi hansidir?   avro   avro   manat   rubl   lire 
+Yaponiyanin pul vahidi hansidir?   yen   yen   lire   rial   kron 

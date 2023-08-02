@@ -1,0 +1,10 @@
+Python dili necenci ilde yaradilmisdir?   1991   1991   1992   1993   1994 
+C++ dili necenci ilde yaradilmisdir?   1983   1983   1984   1985   1986 
+Java dili necenci ilde yaradilmisdir?   1995   1995   1996   1997   1998 
+C# dili necenci ilde yaradilmisdir?   2001   2001   2002   2003   2004 
+Php dili necenci ilde yaradilmisdir?   1995   1995   1996   1997   1998 
+Swift dili necenci ilde yaradilmisdir?   2014   2014   2015   2016   2017 
+C dili necenci ilde yaradilmisdir?   1972   1972   1973   1974   1975 
+Ruby dili necenci ilde yaradilmisdir?   1995   1995   1996   1997   1998 
+Javascript dili necenci ilde yaradilmisdir?   1996   1996   1997   1998   1999 
+Go dili necenci ilde yaradilmisdir?   2009   2009   2010   2011   2012 
